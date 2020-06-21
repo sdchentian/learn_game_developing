@@ -1,2 +1,2 @@
-# lean_game_developing
+# learn_game_developing
 this is a project to write wiki
